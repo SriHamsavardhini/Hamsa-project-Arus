@@ -1,1 +1,0 @@
-# Basics in javascript
